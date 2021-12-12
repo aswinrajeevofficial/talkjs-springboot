@@ -1,0 +1,2 @@
+# Integrating TalkJS into a Spring Boot App
+This repository contains integrates TalkJS with a Spring Boot application. There are two projects present inside the repo. The `talkjs-springboot-frontend` project has the frontend code written in JavaScript and the ``SpringBootTalkJS` project contains the Spring Boot application. 
